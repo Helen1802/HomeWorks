@@ -1,0 +1,15 @@
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\String_text\bin\Debug\net6.0\String_text.exe
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\String_text\bin\Debug\net6.0\String_text.deps.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\String_text\bin\Debug\net6.0\String_text.runtimeconfig.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\String_text\bin\Debug\net6.0\String_text.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\String_text\bin\Debug\net6.0\String_text.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\String_text\obj\Debug\net6.0\String_text.csproj.AssemblyReference.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\String_text\obj\Debug\net6.0\String_text.GeneratedMSBuildEditorConfig.editorconfig
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\String_text\obj\Debug\net6.0\String_text.AssemblyInfoInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\String_text\obj\Debug\net6.0\String_text.AssemblyInfo.cs
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\String_text\obj\Debug\net6.0\String_text.csproj.CoreCompileInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\String_text\obj\Debug\net6.0\String_text.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\String_text\obj\Debug\net6.0\refint\String_text.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\String_text\obj\Debug\net6.0\String_text.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\String_text\obj\Debug\net6.0\String_text.genruntimeconfig.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\String_text\obj\Debug\net6.0\ref\String_text.dll
