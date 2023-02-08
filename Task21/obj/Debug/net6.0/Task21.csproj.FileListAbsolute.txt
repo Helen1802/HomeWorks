@@ -1,0 +1,15 @@
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task21\bin\Debug\net6.0\Task21.exe
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task21\bin\Debug\net6.0\Task21.deps.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task21\bin\Debug\net6.0\Task21.runtimeconfig.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task21\bin\Debug\net6.0\Task21.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task21\bin\Debug\net6.0\Task21.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task21\obj\Debug\net6.0\Task21.csproj.AssemblyReference.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task21\obj\Debug\net6.0\Task21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task21\obj\Debug\net6.0\Task21.AssemblyInfoInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task21\obj\Debug\net6.0\Task21.AssemblyInfo.cs
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task21\obj\Debug\net6.0\Task21.csproj.CoreCompileInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task21\obj\Debug\net6.0\Task21.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task21\obj\Debug\net6.0\refint\Task21.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task21\obj\Debug\net6.0\Task21.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task21\obj\Debug\net6.0\Task21.genruntimeconfig.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task21\obj\Debug\net6.0\ref\Task21.dll
