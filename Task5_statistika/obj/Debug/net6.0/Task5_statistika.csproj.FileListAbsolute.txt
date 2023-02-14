@@ -1,0 +1,15 @@
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task5_statistika\bin\Debug\net6.0\Task5_statistika.exe
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task5_statistika\bin\Debug\net6.0\Task5_statistika.deps.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task5_statistika\bin\Debug\net6.0\Task5_statistika.runtimeconfig.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task5_statistika\bin\Debug\net6.0\Task5_statistika.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task5_statistika\bin\Debug\net6.0\Task5_statistika.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task5_statistika\obj\Debug\net6.0\Task5_statistika.csproj.AssemblyReference.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task5_statistika\obj\Debug\net6.0\Task5_statistika.GeneratedMSBuildEditorConfig.editorconfig
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task5_statistika\obj\Debug\net6.0\Task5_statistika.AssemblyInfoInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task5_statistika\obj\Debug\net6.0\Task5_statistika.AssemblyInfo.cs
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task5_statistika\obj\Debug\net6.0\Task5_statistika.csproj.CoreCompileInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task5_statistika\obj\Debug\net6.0\Task5_statistika.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task5_statistika\obj\Debug\net6.0\refint\Task5_statistika.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task5_statistika\obj\Debug\net6.0\Task5_statistika.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task5_statistika\obj\Debug\net6.0\Task5_statistika.genruntimeconfig.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task5_statistika\obj\Debug\net6.0\ref\Task5_statistika.dll
