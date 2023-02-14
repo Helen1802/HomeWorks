@@ -1,0 +1,15 @@
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk2\bin\Debug\net6.0\Tesk2.exe
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk2\bin\Debug\net6.0\Tesk2.deps.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk2\bin\Debug\net6.0\Tesk2.runtimeconfig.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk2\bin\Debug\net6.0\Tesk2.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk2\bin\Debug\net6.0\Tesk2.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk2\obj\Debug\net6.0\Tesk2.csproj.AssemblyReference.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk2\obj\Debug\net6.0\Tesk2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk2\obj\Debug\net6.0\Tesk2.AssemblyInfoInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk2\obj\Debug\net6.0\Tesk2.AssemblyInfo.cs
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk2\obj\Debug\net6.0\Tesk2.csproj.CoreCompileInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk2\obj\Debug\net6.0\Tesk2.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk2\obj\Debug\net6.0\refint\Tesk2.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk2\obj\Debug\net6.0\Tesk2.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk2\obj\Debug\net6.0\Tesk2.genruntimeconfig.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk2\obj\Debug\net6.0\ref\Tesk2.dll

@@ -1,0 +1,15 @@
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Gipotiza\bin\Debug\net6.0\Gipotiza.exe
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Gipotiza\bin\Debug\net6.0\Gipotiza.deps.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Gipotiza\bin\Debug\net6.0\Gipotiza.runtimeconfig.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Gipotiza\bin\Debug\net6.0\Gipotiza.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Gipotiza\bin\Debug\net6.0\Gipotiza.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Gipotiza\obj\Debug\net6.0\Gipotiza.csproj.AssemblyReference.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Gipotiza\obj\Debug\net6.0\Gipotiza.GeneratedMSBuildEditorConfig.editorconfig
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Gipotiza\obj\Debug\net6.0\Gipotiza.AssemblyInfoInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Gipotiza\obj\Debug\net6.0\Gipotiza.AssemblyInfo.cs
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Gipotiza\obj\Debug\net6.0\Gipotiza.csproj.CoreCompileInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Gipotiza\obj\Debug\net6.0\Gipotiza.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Gipotiza\obj\Debug\net6.0\refint\Gipotiza.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Gipotiza\obj\Debug\net6.0\Gipotiza.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Gipotiza\obj\Debug\net6.0\Gipotiza.genruntimeconfig.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Gipotiza\obj\Debug\net6.0\ref\Gipotiza.dll

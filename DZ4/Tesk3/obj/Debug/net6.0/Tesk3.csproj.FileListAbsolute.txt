@@ -1,0 +1,15 @@
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk3\obj\Debug\net6.0\Tesk3.csproj.AssemblyReference.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk3\obj\Debug\net6.0\Tesk3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk3\obj\Debug\net6.0\Tesk3.AssemblyInfoInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk3\obj\Debug\net6.0\Tesk3.AssemblyInfo.cs
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk3\obj\Debug\net6.0\Tesk3.csproj.CoreCompileInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk3\bin\Debug\net6.0\Tesk3.exe
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk3\bin\Debug\net6.0\Tesk3.deps.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk3\bin\Debug\net6.0\Tesk3.runtimeconfig.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk3\bin\Debug\net6.0\Tesk3.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk3\bin\Debug\net6.0\Tesk3.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk3\obj\Debug\net6.0\Tesk3.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk3\obj\Debug\net6.0\refint\Tesk3.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk3\obj\Debug\net6.0\Tesk3.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk3\obj\Debug\net6.0\Tesk3.genruntimeconfig.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ4\Tesk3\obj\Debug\net6.0\ref\Tesk3.dll
