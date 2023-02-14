@@ -1,0 +1,15 @@
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task34\bin\Debug\net6.0\Task34.exe
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task34\bin\Debug\net6.0\Task34.deps.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task34\bin\Debug\net6.0\Task34.runtimeconfig.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task34\bin\Debug\net6.0\Task34.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task34\bin\Debug\net6.0\Task34.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task34\obj\Debug\net6.0\Task34.csproj.AssemblyReference.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task34\obj\Debug\net6.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task34\obj\Debug\net6.0\Task34.AssemblyInfoInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task34\obj\Debug\net6.0\Task34.AssemblyInfo.cs
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task34\obj\Debug\net6.0\Task34.csproj.CoreCompileInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task34\obj\Debug\net6.0\Task34.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task34\obj\Debug\net6.0\refint\Task34.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task34\obj\Debug\net6.0\Task34.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task34\obj\Debug\net6.0\Task34.genruntimeconfig.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task34\obj\Debug\net6.0\ref\Task34.dll
