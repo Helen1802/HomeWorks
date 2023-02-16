@@ -1,0 +1,15 @@
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task41\bin\Debug\net6.0\Task41.exe
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task41\bin\Debug\net6.0\Task41.deps.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task41\bin\Debug\net6.0\Task41.runtimeconfig.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task41\bin\Debug\net6.0\Task41.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task41\bin\Debug\net6.0\Task41.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task41\obj\Debug\net6.0\Task41.csproj.AssemblyReference.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task41\obj\Debug\net6.0\Task41.GeneratedMSBuildEditorConfig.editorconfig
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task41\obj\Debug\net6.0\Task41.AssemblyInfoInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task41\obj\Debug\net6.0\Task41.AssemblyInfo.cs
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task41\obj\Debug\net6.0\Task41.csproj.CoreCompileInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task41\obj\Debug\net6.0\Task41.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task41\obj\Debug\net6.0\refint\Task41.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task41\obj\Debug\net6.0\Task41.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task41\obj\Debug\net6.0\Task41.genruntimeconfig.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task41\obj\Debug\net6.0\ref\Task41.dll
