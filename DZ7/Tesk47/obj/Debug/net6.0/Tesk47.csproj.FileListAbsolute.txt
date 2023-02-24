@@ -1,0 +1,15 @@
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ7\Tesk47\bin\Debug\net6.0\Tesk47.exe
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ7\Tesk47\bin\Debug\net6.0\Tesk47.deps.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ7\Tesk47\bin\Debug\net6.0\Tesk47.runtimeconfig.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ7\Tesk47\bin\Debug\net6.0\Tesk47.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ7\Tesk47\bin\Debug\net6.0\Tesk47.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ7\Tesk47\obj\Debug\net6.0\Tesk47.csproj.AssemblyReference.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ7\Tesk47\obj\Debug\net6.0\Tesk47.GeneratedMSBuildEditorConfig.editorconfig
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ7\Tesk47\obj\Debug\net6.0\Tesk47.AssemblyInfoInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ7\Tesk47\obj\Debug\net6.0\Tesk47.AssemblyInfo.cs
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ7\Tesk47\obj\Debug\net6.0\Tesk47.csproj.CoreCompileInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ7\Tesk47\obj\Debug\net6.0\Tesk47.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ7\Tesk47\obj\Debug\net6.0\refint\Tesk47.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ7\Tesk47\obj\Debug\net6.0\Tesk47.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ7\Tesk47\obj\Debug\net6.0\Tesk47.genruntimeconfig.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\DZ7\Tesk47\obj\Debug\net6.0\ref\Tesk47.dll
