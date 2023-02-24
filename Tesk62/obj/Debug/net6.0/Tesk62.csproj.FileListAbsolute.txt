@@ -1,0 +1,15 @@
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Tesk62\bin\Debug\net6.0\Tesk62.exe
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Tesk62\bin\Debug\net6.0\Tesk62.deps.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Tesk62\bin\Debug\net6.0\Tesk62.runtimeconfig.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Tesk62\bin\Debug\net6.0\Tesk62.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Tesk62\bin\Debug\net6.0\Tesk62.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Tesk62\obj\Debug\net6.0\Tesk62.csproj.AssemblyReference.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Tesk62\obj\Debug\net6.0\Tesk62.GeneratedMSBuildEditorConfig.editorconfig
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Tesk62\obj\Debug\net6.0\Tesk62.AssemblyInfoInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Tesk62\obj\Debug\net6.0\Tesk62.AssemblyInfo.cs
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Tesk62\obj\Debug\net6.0\Tesk62.csproj.CoreCompileInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Tesk62\obj\Debug\net6.0\Tesk62.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Tesk62\obj\Debug\net6.0\refint\Tesk62.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Tesk62\obj\Debug\net6.0\Tesk62.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Tesk62\obj\Debug\net6.0\Tesk62.genruntimeconfig.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Tesk62\obj\Debug\net6.0\ref\Tesk62.dll
