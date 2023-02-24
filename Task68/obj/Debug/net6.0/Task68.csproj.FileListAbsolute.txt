@@ -1,0 +1,15 @@
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task68\bin\Debug\net6.0\Task68.exe
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task68\bin\Debug\net6.0\Task68.deps.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task68\bin\Debug\net6.0\Task68.runtimeconfig.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task68\bin\Debug\net6.0\Task68.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task68\bin\Debug\net6.0\Task68.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task68\obj\Debug\net6.0\Task68.csproj.AssemblyReference.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task68\obj\Debug\net6.0\Task68.GeneratedMSBuildEditorConfig.editorconfig
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task68\obj\Debug\net6.0\Task68.AssemblyInfoInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task68\obj\Debug\net6.0\Task68.AssemblyInfo.cs
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task68\obj\Debug\net6.0\Task68.csproj.CoreCompileInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task68\obj\Debug\net6.0\Task68.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task68\obj\Debug\net6.0\refint\Task68.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task68\obj\Debug\net6.0\Task68.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task68\obj\Debug\net6.0\Task68.genruntimeconfig.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Task68\obj\Debug\net6.0\ref\Task68.dll
