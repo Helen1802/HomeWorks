@@ -1,0 +1,15 @@
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Final_task\bin\Debug\net6.0\Final_task.exe
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Final_task\bin\Debug\net6.0\Final_task.deps.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Final_task\bin\Debug\net6.0\Final_task.runtimeconfig.json
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Final_task\bin\Debug\net6.0\Final_task.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Final_task\bin\Debug\net6.0\Final_task.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Final_task\obj\Debug\net6.0\Final_task.csproj.AssemblyReference.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Final_task\obj\Debug\net6.0\Final_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Final_task\obj\Debug\net6.0\Final_task.AssemblyInfoInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Final_task\obj\Debug\net6.0\Final_task.AssemblyInfo.cs
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Final_task\obj\Debug\net6.0\Final_task.csproj.CoreCompileInputs.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Final_task\obj\Debug\net6.0\Final_task.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Final_task\obj\Debug\net6.0\refint\Final_task.dll
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Final_task\obj\Debug\net6.0\Final_task.pdb
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Final_task\obj\Debug\net6.0\Final_task.genruntimeconfig.cache
+D:\Елена\Desktop\Обучение\C#HW\HomeWorks\Final_task\obj\Debug\net6.0\ref\Final_task.dll
